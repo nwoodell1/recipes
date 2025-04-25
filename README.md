@@ -1,0 +1,1 @@
+This project is designed to reinforce and refresh my HTML skills
